@@ -8,7 +8,9 @@
 - **Nom du Projet :** `DépannIA`
 - **Axe :** RAG hybride (recherche dense + BM25, reranking cross-encoder)
 - **Membres de l'Équipe :**
-  1. *Ahmed — Rôles : Lead Data / Retrieval, Lead Backend / MLOps, Lead Frontend / Infra*
+  1. *Ahmed — Rôle : Lead Data / Retrieval (données, Qdrant, recherche hybride, évaluation Ragas)*
+  2. *Achref — Rôle : Lead Backend / MLOps (API FastAPI, streaming, tests, CI)*
+  - *Frontend / Infra : partagé entre les deux membres*
 - **Lien du Dépôt GitHub :** `https://github.com/Ahmed-BA-hub/depannia`
 - **Branche de travail principale :** `main` (protégée par la CI à partir de la séance 6)
 
