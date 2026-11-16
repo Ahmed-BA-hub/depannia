@@ -2,7 +2,7 @@
 
 Assistant de dépannage pour les conseillers du service après-vente d'électroménager : il cherche dans les notices PDF des appareils et répond en 5 étapes maximum, avec la page de la notice citée.
 
-Projet Fédérateur BI-AI-3 · Axe RAG hybride · Équipe : Ahmed et Achref.
+Projet Fédérateur BD-BI-3 · Axe RAG hybride · Équipe : Ahmed et Achref.
 
 ## Vision produit
 
